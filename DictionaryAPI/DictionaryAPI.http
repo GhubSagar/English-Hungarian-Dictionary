@@ -1,0 +1,5 @@
+@DictionaryAPI_HostAddress = http://localhost:5188
+
+GET {{DictionaryAPI_HostAddress}}
+Accept: application/json
+
